@@ -48,6 +48,8 @@ Early Credit Risk Predictions
 Each stage is isolated, traceable, and purpose-driven.
 
 🧩 Project Structure
+
+
 Credit_Risk_Prediction_Lakehouse/
 │
 ├── README.md
