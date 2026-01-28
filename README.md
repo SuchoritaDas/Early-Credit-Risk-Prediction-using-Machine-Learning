@@ -49,30 +49,6 @@ Each stage is isolated, traceable, and purpose-driven.
 
 🧩 Project Structure
 
-
-Credit_Risk_Prediction_Lakehouse/
-│
-├── README.md
-│
-├── docs/
-│   └── Deep_Dive_Credit_Risk_ML_Lakehouse_Documentation.pdf
-│
-├── bronze_layer/
-│   ├── bronze_preparation.ipynb
-│   └── README.md
-│
-├── silver_layer/
-│   ├── silver_feature_engineering.ipynb
-│   └── README.md
-│
-├── ml_preparation/
-│   ├── model_training.ipynb
-│   └── README.md
-│
-└── presentation/
-    ├── 10_min_presentation.pdf
-    └── video_script.md
-    
 ### 🥉 Bronze Layer – Raw Data Ingestion
 
 -- Purpose:
